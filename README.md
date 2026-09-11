@@ -85,7 +85,7 @@ Mi enfoque consiste en transformar procesos manuales en flujos automatizados med
 
 **Operación Linux para producción**
 
-<img src="DevOps-Toolkit.png" height="300" width="1000">
+<img src="DevOps-Toolkit.png">
 
 Toolkit orientado a la administración y automatización de infraestructura Linux mediante herramientas de línea de comandos.
 
