@@ -160,9 +160,9 @@ Exploración práctica de automatización de infraestructura cloud utilizando Te
 La automatización no consiste únicamente en reducir comandos manuales.
 
 Se trata de construir sistemas donde los procesos puedan ser:
-
-**repetidos → medidos → entendidos → mejorados.**
-
+```text
+repetidos → medidos → entendidos → mejorados.
+```
 ---
 
 ## `> achievements`
