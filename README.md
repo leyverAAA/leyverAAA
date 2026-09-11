@@ -31,7 +31,7 @@
 
 Ingeniero en Tecnologías de la Información especializado en **diseño, automatización y despliegue de infraestructura cloud escalable**. 
 
-<table>
+<table aling="center">
   <tr>
     <td align="center" width="20%">
       <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" url="https://lnkd.in/p/gPvV-bZ7"/>
@@ -63,7 +63,7 @@ Mi enfoque consiste en transformar procesos manuales en flujos automatizados med
 
 ## `> stack --overview`
 
-<table>
+<table aling="center">
   <tr>
     <td align="center" width="25%"><strong>Cloud & Infra</strong><br/><br/><img src="https://skillicons.dev/icons?i=aws,gcp,terraform" height="42" alt="AWS, GCP y Terraform" /><br/><sub>AWS · GCP · Terraform</sub></td>
     <td align="center" width="25%"><strong>Containers</strong><br/><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42" alt="Docker y Kubernetes" /><br/><sub>Docker · Kubernetes</sub></td>
@@ -71,7 +71,7 @@ Mi enfoque consiste en transformar procesos manuales en flujos automatizados med
     <td align="center" width="25%"><strong>Observability</strong><br/><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42" alt="Prometheus y Grafana" /><br/><sub>Prometheus · Grafana</sub></td>
   </tr>
 </table>
-<table>
+<table aling="center">
   <tr>
     <td align="center" width="25%"><strong>Lenguajes de programacion</strong><br/><br/><img src="https://skillicons.dev/icons?i=bash,python,java" height="42" alt="Python, Bash y Java" /><br/><sub>Python · Bash · Java</sub></td>
     <td align="center" width="25%"><strong>Base de datos</strong><br/><br/><img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" height="42" alt="MySQL, Firebase y Postgres" /><br/><sub>MySQL · Firebase · Postgres</sub></td>
@@ -113,6 +113,8 @@ https://github.com/leyverAAA/DevOps-Toolkit
 ### `02` · Monitoring & Observability
 
 **Monitoreo de infraestructura y servicios**
+
+<img src="health-monitor.jpg">
 
 Proyecto enfocado en visualizar el estado de servicios mediante métricas y dashboards.
 
