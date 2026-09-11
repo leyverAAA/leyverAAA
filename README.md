@@ -172,6 +172,7 @@ Se trata de construir sistemas donde los procesos puedan ser:
 <img src="https://img.shields.io/badge/Huawei%20Academy-2.º%20Lugar%20Nacional-FF9900?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Academy — 2.º lugar nacional"/>
 
 <br/><br/>
+<img src="https://www.eternityx.com/wp-content/uploads/2022/04/Huawei-%E5%8D%8E%E4%B8%BA-Logo.png" height="50" alt="Huawei"/>
 
 **Huawei Academy Cloud Competition**
 
