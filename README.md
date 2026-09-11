@@ -249,5 +249,3 @@ Estoy abierto a oportunidades, proyectos y colaboraciones relacionadas con:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,45:1A1F26,100:0D1117&height=140&section=footer" alt="Footer"/>
 
 </div>
-#   l e y v e r A A A  
- 
