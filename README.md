@@ -46,7 +46,7 @@ Ingeniero en Tecnologías de la Información especializado en **diseño, automat
     <td align="center" width="20%">
       <img src="https://www.eternityx.com/wp-content/uploads/2022/04/Huawei-%E5%8D%8E%E4%B8%BA-Logo.png" height="50" alt="Huawei"/>
       <br/>
-      <strong>2.º lugar nacional</strong>
+      <strong>Representante nacional</strong>
       <br/>
       <sub>Huawei Academy Cloud</sub>
     </td>
@@ -176,7 +176,7 @@ repetidos → medidos → entendidos → mejorados.
 
 **Huawei Academy Cloud Competition**
 
-**2.º lugar nacional**
+**Representante nacional**
 
 </div>
 
